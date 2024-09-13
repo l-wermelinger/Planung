@@ -16,3 +16,6 @@ und 02 im Modul 319
 
 Heute 13.09.2024
 Heute will ich als Partner arbeit mit Max den Auftrag 21 machen
+
+Ich habe heute den Auftrag 21 gemacht (hab ihn aber noch nicht abgegeben
+Ich habe auch ein bisscdhen für meine Matheprüfung gelernt
