@@ -45,5 +45,14 @@ Vorbereitung für Abschlussprüfung
 Ich habe mir die Präsentationen angeschaut 
 
 
+## Ziele 25.10.2024
+
+-Lernen für das m319 
+(ich repetiere Themen zusammen mit Andrin)
+-Ich mache am Modul 162 weiter
+
+
+
+
 
 
