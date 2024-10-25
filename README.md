@@ -51,6 +51,10 @@ Ich habe mir die Präsentationen angeschaut
 (ich repetiere Themen zusammen mit Andrin)
 -Ich mache am Modul 162 weiter
 
+### Reflexion
+Ich habe gelernt aber nicht für M162 weitergemacht
+
+
 
 
 
