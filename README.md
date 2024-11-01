@@ -54,6 +54,14 @@ Ich habe mir die Präsentationen angeschaut
 ### Reflexion
 Ich habe gelernt aber nicht für M162 weitergemacht
 
+## Ziele 01.11.2024
+
+-Lernen für das m319
+
+### Reflexion
+Ich habe gelernt 
+
+
 
 
 
