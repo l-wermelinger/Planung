@@ -1,3 +1,34 @@
+## Ziele 08.11.2024
+
+-Ich arbeite am Projekt
+
+### Reflexion
+
+
+## Ziele 01.11.2024
+
+-Lernen für das m319
+
+### Reflexion
+Ich habe gelernt 
+
+## Ziele 25.10.2024
+
+-Lernen für das m319 
+(ich repetiere Themen zusammen mit Andrin)
+-Ich mache am Modul 162 weiter
+
+### Reflexion
+Ich habe gelernt aber nicht für M162 weitergemacht
+
+
+## Ziele 18.10.2024
+Vorbereitung für Abschlussprüfung
+
+### Reflexion
+Ich habe mir die Präsentationen angeschaut 
+
+
 # Planung
 ## Ziele Freitag 13.09.2024
 Heute will ich als Partner arbeit mit Max den Auftrag 21 machen
@@ -38,35 +69,9 @@ Insgesamt finde ich war ich produktiv
 Heute habe ich kapitel 05 06 und 07 angefangen im Modul 431
 und 02 im Modul 319
 
-## Ziele 18.10.2024
-Vorbereitung für Abschlussprüfung
-
-### Reflexion
-Ich habe mir die Präsentationen angeschaut 
 
 
-## Ziele 25.10.2024
 
--Lernen für das m319 
-(ich repetiere Themen zusammen mit Andrin)
--Ich mache am Modul 162 weiter
-
-### Reflexion
-Ich habe gelernt aber nicht für M162 weitergemacht
-
-## Ziele 01.11.2024
-
--Lernen für das m319
-
-### Reflexion
-Ich habe gelernt 
-
-
-## Ziele 08.11.2024
-
--Ich arbeite am Projekt
-
-### Reflexion
 
 
 
