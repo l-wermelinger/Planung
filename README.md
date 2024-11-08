@@ -62,6 +62,14 @@ Ich habe gelernt aber nicht für M162 weitergemacht
 Ich habe gelernt 
 
 
+## Ziele 08.11.2024
+
+-Ich arbeite am Projekt
+
+### Reflexion
+
+
+
 
 
 
