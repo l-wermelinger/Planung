@@ -1,8 +1,13 @@
 ## Ziele 08.11.2024
 
 -Ich arbeite am Projekt
+--> In der Gruppe Projekt planen
+--> PAP erstellen
+--> Anforderungsanalyse erledigen
 
 ### Reflexion
+--> Wir haben unser Vorgehen für das Projekt festgelegt
+--> Ich habe mein PAP erstellen
 
 
 ## Ziele 01.11.2024
