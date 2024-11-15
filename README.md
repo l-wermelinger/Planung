@@ -1,3 +1,15 @@
+## Ziele 15.11.2024
+
+-Ich arbeite am Projekt
+--> Ich programmiere mit Pascal am Projekt mit Hilfe meines Paps
+--> Input anhören
+--> Daten speichern mit der Hilfe von Frau Rieder
+
+### Reflexion
+
+
+
+
 ## Ziele 08.11.2024
 
 -Ich arbeite am Projekt
