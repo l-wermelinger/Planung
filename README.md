@@ -6,6 +6,9 @@
 --> Daten speichern mit der Hilfe von Frau Rieder (Ich telefonieren mit Pascal und Frau Rieder)
 
 ### Reflexion
+-Ich habe mit Pascal programmiert
+-Ich war am Imput von Frau Rieder
+-Ich habe mir zum Input notizen gemacht
 
 
 
