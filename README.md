@@ -1,3 +1,13 @@
+## Ziele 22.11.2024
+--> Ich arbeite 
+--> Ich arbeite noch am Programmierporjekt mit Pascal 
+    (so fertig, das ich das Programm am nächsten Dienstag testen kann)
+    
+### Reflexion
+
+    
+
+
 ## Ziele 15.11.2024
 
 -Ich arbeite am Projekt
