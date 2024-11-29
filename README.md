@@ -1,3 +1,11 @@
+## Ziele 29.11.2024
+--> Ich arbeite am Programmierprojekt (am Programm selber, zusammen mit meinder Gruppe)
+--> Ich arbeite an der PowerPoint-Präsentation für das Programmierprojekt
+--> Ich stelle mir einen Wecker damit ich die Reflexion nicht mehr vergesse
+    
+### Reflexion
+
+
 ## Ziele 22.11.2024
 --> Ich arbeite 
 --> Ich arbeite noch am Programmierporjekt mit Pascal 
