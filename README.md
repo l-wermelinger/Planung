@@ -4,7 +4,9 @@
 --> Ich stelle mir einen Wecker damit ich die Reflexion nicht mehr vergesse
     
 ### Reflexion
-
+--> Programm ist fertig und getestet
+--> Powerpoint ist fast fertig 
+--> Reflexion ist nicht vergessen
 
 ## Ziele 22.11.2024
 --> Ich arbeite 
