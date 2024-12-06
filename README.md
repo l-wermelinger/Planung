@@ -1,8 +1,10 @@
 ## Ziele 06.12.2024
--Ich will das Projekt-Dokument abgeben 
+-->Ich will das Projekt-Dokument abgeben 
 ( Projekt: Es ist ein Programm um eine Trading Strategie zu testen (Backtesting) heisst man sieht am Ende die Winrate und die Risk/Reward Ratio.)
--Ich komme an den Input über die Repetionsaufgabe (M162)
--Ich reptiere alle Powerpoints (M162)
+
+-->Ich komme an den Input über die Repetionsaufgabe (M162)
+
+-->Ich reptiere alle Powerpoints (M162)
     
 ### Reflexion
 
