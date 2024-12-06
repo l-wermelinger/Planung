@@ -7,6 +7,9 @@
 -->Ich reptiere alle Powerpoints (M162)
     
 ### Reflexion
+--> Ich wahr am Imput 
+--> Ich habe alle PowerPoints repetiert
+--> Ich habe mir Gedanken bezüglich des Programmierprojekts gemacht 
 
 
 ## Ziele 29.11.2024
