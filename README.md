@@ -11,6 +11,12 @@
 --> Ich habe alle PowerPoints repetiert
 --> Ich habe mir Gedanken bezüglich des Programmierprojekts gemacht 
 
+Projekt
+[Backtesting Rechner.odt](https://github.com/user-attachments/files/18066519/Backtesting.Rechner.odt)
+-WordDatei
+
+
+
 
 ## Ziele 29.11.2024
 --> Ich arbeite am Programmierprojekt (am Programm selber, zusammen mit meinder Gruppe)
