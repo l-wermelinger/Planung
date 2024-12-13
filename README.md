@@ -7,6 +7,9 @@
     
 ### Reflexion
 
+--> Die Rechnungswege sind mir jetzt bekannt ich habe sie auf einem A4 Papier festgehalten und muss diese nachher noch in meine Dokumantantion integrieren
+--> Ich will dazu eine Konsolenerweiterung nutzen /(Ich will die Werte tabellarisch darstellen)
+--> DIe Projektplanung ist nur Teilweise fertig
 
 
 ## Ziele 06.12.2024
