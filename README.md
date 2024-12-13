@@ -1,3 +1,12 @@
+## Ziele 13.12.2024
+--> Heute wll ich mir Gedanken machen wie das ganze visuell aussieht, (z.B. mit welcher Konsolenerweiterung) das ganze halte ich auf meinem Word-Dokument fest.
+--> Ich überlege mir die nötigen Rechnungswege um die gewünschten Lösungswerte (z.B. Winrate ) zu errechnen.
+--> Ich will heute eine Projekt-Planung erstellenn (falls es zeitlich noch reicht)
+    
+### Reflexion
+
+
+
 ## Ziele 06.12.2024
 -->Ich will das Projekt-Dokument abgeben 
 ( Projekt: Es ist ein Programm um eine Trading Strategie zu testen (Backtesting) heisst man sieht am Ende die Winrate und die Risk/Reward Ratio.)
