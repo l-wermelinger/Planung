@@ -1,7 +1,9 @@
 ## Ziele 13.12.2024
 --> Heute wll ich mir Gedanken machen wie das ganze visuell aussieht, (z.B. mit welcher Konsolenerweiterung) das ganze halte ich auf meinem Word-Dokument fest.
+
 --> Ich überlege mir die nötigen Rechnungswege um die gewünschten Lösungswerte (z.B. Winrate ) zu errechnen.
---> Ich will heute eine Projekt-Planung erstellenn (falls es zeitlich noch reicht)
+
+--> Ich will heute eine Projekt-Planung erstellenn 
     
 ### Reflexion
 
