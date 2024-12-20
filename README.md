@@ -4,7 +4,9 @@
 
 ## Ziele 20.12.2024
 --> Heute will ich programmieren 
+
 --> Ich will die Rechnungswege impementieren vom letzten Mal
+
 --> Ich will die Projektplanung fertig machen
 
 ### Reflexion
