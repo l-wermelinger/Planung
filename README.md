@@ -11,6 +11,9 @@
 
 ### Reflexion
 
+--> Projektplannung ist fertig
+--> Programm ist fertig und funktioniert
+
 
 
 ## Ziele 13.12.2024
