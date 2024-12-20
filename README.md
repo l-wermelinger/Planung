@@ -1,3 +1,16 @@
+
+
+
+
+## Ziele 20.12.2024
+--> Heute will ich programmieren 
+--> Ich will die Rechnungswege impementieren vom letzten Mal
+--> Ich will die Projektplanung fertig machen
+
+### Reflexion
+
+
+
 ## Ziele 13.12.2024
 --> Heute wll ich mir Gedanken machen wie das ganze visuell aussieht, (z.B. mit welcher Konsolenerweiterung) das ganze halte ich auf meinem Word-Dokument fest.
 
