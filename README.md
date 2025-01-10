@@ -2,10 +2,12 @@
 ## Ziele 10.01.2025
 -Ich führe meine dokumentation weiter
 -funktion der änderung für demo account machen
+-umlet anfangen für projekt
 
 
 ### Reflexion
-
+-dokumentation ist erledigt
+-umlet ist angefangen
 
 
 ## Ziele 20.12.2024
