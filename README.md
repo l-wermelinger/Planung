@@ -2,9 +2,7 @@
 ## Ziele 10.01.2025
 -Ich führe meine dokumentation weiter
 
--Ich mache eine test analyse
 
--Ich machde test protokoll und bericht
 
 ### Reflexion
 
