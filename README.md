@@ -1,7 +1,7 @@
 
 ## Ziele 10.01.2025
 -Ich führe meine dokumentation weiter
-
+-funktion der änderung für demo account machen
 
 
 ### Reflexion
