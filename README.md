@@ -6,7 +6,8 @@
 
 
 ### Reflexion
-
+-Ich habe 2 stunden am M117 gearbeitet
+-Ich habe die refelxion nicht vergessen
 
 ## Ziele 10.01.2025
 -Ich führe meine dokumentation weiter
