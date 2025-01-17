@@ -1,4 +1,13 @@
 
+## Ziele 17.01.2025
+-Ich will 2 stunden am M117 arbeiten (handlungsziele und moodletests machen)
+-Ich stelle mir einen Wecker das ich die reflexion nicht vergesse
+-Ich will weitere Verbindungen in meiner Datenbank einrichten (eine Verbingung aus meinem logischen Datenmodell in den sql server implementieren)
+
+
+### Reflexion
+
+
 ## Ziele 10.01.2025
 -Ich führe meine dokumentation weiter
 -funktion der änderung für demo account machen
