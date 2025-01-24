@@ -1,3 +1,10 @@
+## Ziele 17.01.2025
+Ich lerne die Basics von Pinescrips (als Projekt schritt 1)
+Ich will einen eigenen Indikator programmieren (als Projekt schritt 2)
+Ich mache eine anforderungsanalyse
+### Reflexion
+
+
 
 ## Ziele 17.01.2025
 -Ich will 2 stunden am M117 arbeiten (handlungsziele und moodletests machen)
