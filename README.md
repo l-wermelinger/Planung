@@ -6,7 +6,8 @@ Ich will einen eigenen Indikator programmieren (als Projekt schritt 2)
 Ich mache eine anforderungsanalyse
 
 ### Reflexion
-
+- Ich habe mir 2 stunden die basics angeschaut
+- und parallel einen eigenen Indikator gemacht mit 5 Exponentiall Moving Averages
 
 
 ## Ziele 17.01.2025
